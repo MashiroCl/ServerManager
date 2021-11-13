@@ -28,6 +28,6 @@ public class Server {
     private String name;
     private String memory;
     private String type;
-    private String imgUrl;
+    private String imageUrl;
     private Status status;
 }
