@@ -7,14 +7,14 @@ This is a learning project using springboot + Angular, mysql
 ## How to use it
 
 ### Run backend
-'''shell
+'''
 #under project root directory
 mvn spring-boot:run
 #It will cause a little time
 '''
 
 ### Run frontend
-'''shell
+'''
 #under project root directory
 cd serverapp
 ng serve
